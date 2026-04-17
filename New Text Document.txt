@@ -1,0 +1,20 @@
+web-technologies-fundamentals/
+│
+├── html-pages/
+│   ├── page1.html
+│   ├── page2.html
+│   ├── form.html
+│   ├── table.html
+│   └── list.html
+│
+├── php-scripts/
+│   ├── variables.php
+│   ├── loops.php
+│   ├── functions.php
+│   ├── login.php
+│   └── database.php
+│
+├── database/
+│   └── db.sql
+│
+└── README.md
